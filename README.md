@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nurdan</h1>
 <h3 align="center">I do content on Test Automastion and Development</h3>
 
-- 🌱 I’m currently learning **Java, React,Selenium**
+- 🌱 I’m currently learning **Java, React, Selenium**
 
 - 📫 How to reach me **nurdanturan97@gmail.com**
 
