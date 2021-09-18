@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nurdan</h1>
-<h3 align="center">I do content on Test Automastion and Development</h3>
+<h3 align="center">I do content on Test Automation and Development</h3>
 
 - 🌱 I’m currently learning **Java, React, Selenium**
 
