@@ -4,11 +4,6 @@
 
 - 📫 How to reach me **nurdanturan97@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nurdan-turan-564762145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurdan-turan-564762145" height="30" width="40" /></a>
-</p>
-
 
 ## Skills and Experience
 
