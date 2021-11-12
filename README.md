@@ -10,7 +10,7 @@
 
 ## Skills and Experience
 
-- 🌱 I’m currently learning **.NET, SpecFlow, Selenium WebDriver**
+- 🌱 I’m currently learning Test Technologies**. SpecFlow Selenium Gauge Maven TestNG JUnit**
 - 🌱 React
 - 🌱 RestAssured, Java
 - 🌱 HTML, CSS, JS
