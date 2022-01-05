@@ -10,9 +10,9 @@
 
 ## Skills and Experience
 
-- 🌱 I’m currently learning Test Technologies **. SpecFlow Selenium Gauge Maven TestNG JUnit**
-- 🌱 React
+- 🌱 I’m currently learning Test Technologies **SpecFlow Selenium Gauge Maven TestNG JUnit GIT **
 - 🌱 RestAssured, Java
+- 🌱 React
 - 🌱 HTML, CSS, JS
 
 
