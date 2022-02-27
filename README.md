@@ -10,10 +10,10 @@
 
 ## Skills and Experience
 
-- 🌱 I’m currently learning Test Technologies **SpecFlow Selenium Gauge Maven TestNG JUnit GIT**
-- 🌱 RestAssured, Java
-- 🌱 React
-- 🌱 HTML, CSS, JS
+🌱 I’m currently learning Test Technologies **SpecFlow Selenium Gauge Maven TestNG JUnit GIT**
+🌱 RestAssured, Java
+🌱 React
+🌱 HTML, CSS, JS
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurdan-turan" alt="nurdan-turan" /></a> </p>
