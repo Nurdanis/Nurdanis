@@ -107,7 +107,7 @@
   <a href="https://www.youtube.com/channel/UCu-Znq8Yt2v4XuhVLjjcS5Q" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="urdanturan97@gmail.com" target="_blank">
+  <a href="nurdanturan97@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://dev.to/nurdanturan" target="_blank">
