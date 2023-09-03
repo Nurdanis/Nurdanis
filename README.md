@@ -5,11 +5,8 @@
 
 🌱 I’m currently learning Test Technologies 
 
-💬 Ask me about **Test and Development**
-
-
 ##
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
@@ -47,21 +44,9 @@
 </div>
 
 ##
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurdan-turan" alt="nurdan-turan" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurdan-turan&show_icons=true&locale=en&layout=compact" alt="nurdan-turan" style="max-width:100%;"/></p>
-
-<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nurdan-turan&show_icons=true&locale=en" alt="nurdan-turan" style="max-width:100%;"/></p>
-
-##
-
-<br clear="both">
-
 <div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@nurdan-turan&theme=graywhite" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@nurdan-turan&theme=graywhite" alt="Layout with last medium posts"  />
 </div>
-
 
 ## 📫 How to reach me
 
