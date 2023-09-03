@@ -6,7 +6,7 @@
 🌱 I’m currently learning Test Technologies 
 
 ##
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
@@ -69,3 +69,4 @@
 </div>
 
 ##
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdan-turan&hide=html&layout=compact&theme=buefy" />
