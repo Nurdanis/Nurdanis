@@ -44,9 +44,6 @@
 </div>
 
 ##
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@nurdan-turan&theme=graywhite" alt="Layout with last medium posts"  />
-</div>
 
 ## 📫 How to reach me
 
